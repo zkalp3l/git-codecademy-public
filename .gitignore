@@ -3,3 +3,5 @@ ipynb_checkpoints/
 ./ipynb_checkpoints
 pandasDemo/.ipynb_checkpoints/
 pandasDemo/*.csv
+Exploratory Data Analysis EDA/*.csv
+.gitignore
